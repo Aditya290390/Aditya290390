@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aditya290390
 - 👀 I’m interested in everything related to CS
-- 🌱 I’m currently learning python(beginner course)
-- 💞️ I’m looking to collaborate on anything(i havent done anything so idk)
 - 📫 How to reach me discord @aditya290390 #9989
 
 <!---
