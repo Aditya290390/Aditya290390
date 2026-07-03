@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya290390
+- 👋 Hi, I’m   aditya Palwe
 - 👀 I’m interested in everything related to CS
 - 📫 How to reach me discord @aditya290390 #9989
 
